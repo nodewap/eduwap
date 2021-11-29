@@ -1,2 +1,2 @@
 alert();
-document.write();
+console.log("Success");
